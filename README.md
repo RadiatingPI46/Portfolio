@@ -1,6 +1,6 @@
 # Portfolio
-#### The app is my Portfolio, 17/09/2024
-#### **By Kelvin Kipchumba**
+#### The app is my Portfolio, 22/09/2024
+#### **By Elijah Elih**
 ## Description
 The application includes details that show what i do, my education background and my contact information.
 
