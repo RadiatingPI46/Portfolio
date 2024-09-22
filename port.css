@@ -1,0 +1,65 @@
+body{
+    background-color: darkgrey;
+}
+#Md1 {
+    background-color: black;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+    display: grid;
+}
+#Md1 h1{
+    color: aliceblue;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+header div a{
+    text-decoration: none;
+    color:aliceblue;
+    margin-right: 20px;
+}
+#Md2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+}
+#Md2 div p{
+    text-wrap:balance;
+    color: aliceblue;
+}
+#Md3{
+text-align: center;
+}
+#Sd1 {
+    width: 40%;
+}
+#Sd1 h2{
+    color: aliceblue;
+}
+#Sd2 {
+    width: 40%;
+}
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color:grey;
+}
+#button :hover{
+    color: crimson;
+}
+a :hover{
+    cursor: crosshair;
+    color: chocolate;
+}
