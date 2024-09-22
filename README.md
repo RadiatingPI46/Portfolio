@@ -21,4 +21,4 @@ HTML, CSS , GIT
 email :: nzeluelijah@gmail.com
 
 ### License
-
+https://github.com/RadiatingPI46/Portfolio/blob/master/LICENSE.md
