@@ -11,6 +11,9 @@ The application includes details that show what i do, my education background an
 * Go live or open the Portfolio.html file with chrome
 * And you are all done
 
+## Live Server
+* You can view the website live on [portfolio](https://radiatingpi46.github.io/Portfolio/)
+
 ## Known Bugs
 The application works perfectly well, no bugs.
 
